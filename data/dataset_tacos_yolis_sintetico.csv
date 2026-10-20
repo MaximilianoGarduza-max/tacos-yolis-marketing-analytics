@@ -1,0 +1,251 @@
+﻿id_caso_sintetico,es_sintetico,producto_interes_principal_sintetico,producto_interes_secundario_sintetico,numero_antojitos_mencionados_sintetico,menciona_varios_antojitos_sintetico,interes_salsa_molcajete_sintetico,interacciones_facebook_30d_sinteticas,visitas_local_estimadas_mes_sinteticas,segmento_marketing_sintetico,compro_ultima_campana_sintetica
+CASO-0001,1,Gorditas,Huaraches,2,1,0,5,5,Explora combinaciones,1
+CASO-0002,1,Gorditas,Ninguno,1,0,0,3,5,Afinidad por Gorditas,1
+CASO-0003,1,Tacos,Ninguno,1,0,0,6,1,Afinidad por Tacos,0
+CASO-0004,1,Tacos,Gorditas,2,1,0,5,3,Explora combinaciones,0
+CASO-0005,1,Gorditas,Tacos,2,1,0,8,1,Explora combinaciones,1
+CASO-0006,1,Tacos,Gorditas,2,1,0,9,8,Explora combinaciones,1
+CASO-0007,1,Sopes,Ninguno,1,0,0,6,7,Afinidad por Sopes,1
+CASO-0008,1,Huaraches,Sopes,2,1,0,2,2,Explora combinaciones,1
+CASO-0009,1,Tacos,Huaraches,2,1,0,2,8,Explora combinaciones,0
+CASO-0010,1,Quesadillas,Ninguno,1,0,0,8,5,Afinidad por Quesadillas,1
+CASO-0011,1,Tacos,Gorditas,2,1,0,7,0,Explora combinaciones,1
+CASO-0012,1,Quesadillas,Ninguno,1,0,0,9,1,Afinidad por Quesadillas,0
+CASO-0013,1,Gorditas,Ninguno,1,0,0,0,2,Afinidad por Gorditas,0
+CASO-0014,1,Huaraches,Ninguno,1,0,1,4,5,Afinidad por Huaraches,1
+CASO-0015,1,Tacos,Gorditas,2,1,0,9,7,Explora combinaciones,1
+CASO-0016,1,Tacos,Huaraches,2,1,0,1,3,Explora combinaciones,0
+CASO-0017,1,Gorditas,Ninguno,1,0,0,9,6,Afinidad por Gorditas,0
+CASO-0018,1,Gorditas,Ninguno,1,0,0,0,1,Afinidad por Gorditas,0
+CASO-0019,1,Tacos,Gorditas,2,1,0,9,5,Explora combinaciones,1
+CASO-0020,1,Sopes,Ninguno,1,0,0,9,3,Afinidad por Sopes,1
+CASO-0021,1,Tacos,Ninguno,1,0,0,7,6,Afinidad por Tacos,0
+CASO-0022,1,Quesadillas,Ninguno,1,0,0,4,3,Afinidad por Quesadillas,0
+CASO-0023,1,Gorditas,Tacos,2,1,0,8,0,Explora combinaciones,0
+CASO-0024,1,Gorditas,Ninguno,1,0,0,2,4,Afinidad por Gorditas,1
+CASO-0025,1,Quesadillas,Ninguno,1,0,0,3,1,Afinidad por Quesadillas,0
+CASO-0026,1,Tacos,Gorditas,2,1,0,9,8,Explora combinaciones,0
+CASO-0027,1,Gorditas,Ninguno,1,0,0,6,4,Afinidad por Gorditas,1
+CASO-0028,1,Tacos,Gorditas,2,1,0,3,4,Explora combinaciones,1
+CASO-0029,1,Gorditas,Tacos,2,1,0,3,4,Explora combinaciones,0
+CASO-0030,1,Quesadillas,Ninguno,1,0,0,1,8,Afinidad por Quesadillas,0
+CASO-0031,1,Huaraches,Gorditas,2,1,0,2,8,Explora combinaciones,0
+CASO-0032,1,Sopes,Ninguno,1,0,0,10,7,Afinidad por Sopes,1
+CASO-0033,1,Quesadillas,Ninguno,1,0,0,8,8,Afinidad por Quesadillas,1
+CASO-0034,1,Huaraches,Tacos,2,1,0,2,8,Explora combinaciones,1
+CASO-0035,1,Huaraches,Gorditas,2,1,0,7,0,Explora combinaciones,0
+CASO-0036,1,Huaraches,Ninguno,1,0,1,4,4,Afinidad por Huaraches,0
+CASO-0037,1,Gorditas,Ninguno,1,0,0,10,7,Afinidad por Gorditas,0
+CASO-0038,1,Gorditas,Tacos,2,1,1,6,6,Explora combinaciones,0
+CASO-0039,1,Huaraches,Ninguno,1,0,0,3,3,Afinidad por Huaraches,1
+CASO-0040,1,Gorditas,Ninguno,1,0,0,3,6,Afinidad por Gorditas,0
+CASO-0041,1,Huaraches,Sopes,2,1,0,10,0,Explora combinaciones,0
+CASO-0042,1,Tacos,Ninguno,1,0,0,5,2,Afinidad por Tacos,0
+CASO-0043,1,Gorditas,Ninguno,1,0,0,1,2,Afinidad por Gorditas,0
+CASO-0044,1,Gorditas,Ninguno,1,0,0,6,6,Afinidad por Gorditas,0
+CASO-0045,1,Huaraches,Ninguno,1,0,1,9,2,Afinidad por Huaraches,0
+CASO-0046,1,Sopes,Ninguno,1,0,0,1,3,Afinidad por Sopes,0
+CASO-0047,1,Huaraches,Sopes,2,1,0,7,7,Explora combinaciones,1
+CASO-0048,1,Huaraches,Ninguno,1,0,0,6,6,Afinidad por Huaraches,1
+CASO-0049,1,Tacos,Sopes,2,1,0,4,4,Explora combinaciones,1
+CASO-0050,1,Huaraches,Gorditas,2,1,0,7,2,Explora combinaciones,1
+CASO-0051,1,Huaraches,Ninguno,1,0,0,6,4,Afinidad por Huaraches,0
+CASO-0052,1,Huaraches,Sopes,2,1,0,5,5,Explora combinaciones,0
+CASO-0053,1,Sopes,Ninguno,1,0,0,10,3,Afinidad por Sopes,1
+CASO-0054,1,Tacos,Ninguno,1,0,0,6,7,Afinidad por Tacos,1
+CASO-0055,1,Huaraches,Ninguno,1,0,0,4,2,Afinidad por Huaraches,1
+CASO-0056,1,Tacos,Ninguno,1,0,0,5,1,Afinidad por Tacos,0
+CASO-0057,1,Tacos,Sopes,2,1,0,6,2,Explora combinaciones,1
+CASO-0058,1,Huaraches,Sopes,2,1,0,8,2,Explora combinaciones,0
+CASO-0059,1,Sopes,Ninguno,1,0,0,3,1,Afinidad por Sopes,0
+CASO-0060,1,Gorditas,Ninguno,1,0,0,8,7,Afinidad por Gorditas,1
+CASO-0061,1,Huaraches,Ninguno,1,0,0,0,3,Afinidad por Huaraches,0
+CASO-0062,1,Tacos,Ninguno,1,0,0,3,8,Afinidad por Tacos,0
+CASO-0063,1,Gorditas,Ninguno,1,0,0,6,0,Afinidad por Gorditas,0
+CASO-0064,1,Sopes,Ninguno,1,0,0,7,0,Afinidad por Sopes,0
+CASO-0065,1,Huaraches,Ninguno,1,0,0,4,4,Afinidad por Huaraches,0
+CASO-0066,1,Gorditas,Ninguno,1,0,0,7,1,Afinidad por Gorditas,0
+CASO-0067,1,Sopes,Ninguno,1,0,0,0,1,Afinidad por Sopes,0
+CASO-0068,1,Tacos,Ninguno,1,0,0,2,7,Afinidad por Tacos,0
+CASO-0069,1,Sopes,Ninguno,1,0,0,2,4,Afinidad por Sopes,1
+CASO-0070,1,Huaraches,Sopes,2,1,0,4,5,Explora combinaciones,0
+CASO-0071,1,Tacos,Sopes,2,1,0,9,1,Explora combinaciones,1
+CASO-0072,1,Quesadillas,Ninguno,1,0,0,3,6,Afinidad por Quesadillas,0
+CASO-0073,1,Gorditas,Ninguno,1,0,0,1,1,Afinidad por Gorditas,1
+CASO-0074,1,Huaraches,Sopes,2,1,0,9,4,Explora combinaciones,0
+CASO-0075,1,Huaraches,Ninguno,1,0,0,0,5,Afinidad por Huaraches,1
+CASO-0076,1,Quesadillas,Ninguno,1,0,0,3,6,Afinidad por Quesadillas,0
+CASO-0077,1,Sopes,Ninguno,1,0,1,7,1,Afinidad por Sopes,1
+CASO-0078,1,Huaraches,Ninguno,1,0,0,0,3,Afinidad por Huaraches,0
+CASO-0079,1,Huaraches,Sopes,2,1,0,1,1,Explora combinaciones,0
+CASO-0080,1,Tacos,Ninguno,1,0,0,1,1,Afinidad por Tacos,0
+CASO-0081,1,Huaraches,Sopes,2,1,1,9,8,Explora combinaciones,1
+CASO-0082,1,Sopes,Ninguno,1,0,0,9,4,Afinidad por Sopes,0
+CASO-0083,1,Quesadillas,Ninguno,1,0,0,0,8,Afinidad por Quesadillas,0
+CASO-0084,1,Gorditas,Ninguno,1,0,0,4,6,Afinidad por Gorditas,0
+CASO-0085,1,Huaraches,Sopes,2,1,0,4,1,Explora combinaciones,0
+CASO-0086,1,Huaraches,Sopes,2,1,0,7,4,Explora combinaciones,1
+CASO-0087,1,Huaraches,Tacos,2,1,0,5,4,Explora combinaciones,0
+CASO-0088,1,Tacos,Sopes,2,1,0,8,6,Explora combinaciones,1
+CASO-0089,1,Gorditas,Ninguno,1,0,0,8,7,Afinidad por Gorditas,1
+CASO-0090,1,Huaraches,Gorditas,2,1,0,1,1,Explora combinaciones,0
+CASO-0091,1,Tacos,Huaraches,2,1,0,2,4,Explora combinaciones,1
+CASO-0092,1,Gorditas,Ninguno,1,0,0,7,4,Afinidad por Gorditas,0
+CASO-0093,1,Quesadillas,Ninguno,1,0,1,7,4,Afinidad por Quesadillas,1
+CASO-0094,1,Tacos,Ninguno,1,0,1,1,1,Afinidad por Tacos,1
+CASO-0095,1,Gorditas,Ninguno,1,0,0,5,6,Afinidad por Gorditas,0
+CASO-0096,1,Tacos,Sopes,2,1,0,8,6,Explora combinaciones,0
+CASO-0097,1,Huaraches,Ninguno,1,0,0,7,7,Afinidad por Huaraches,0
+CASO-0098,1,Sopes,Ninguno,1,0,0,6,1,Afinidad por Sopes,0
+CASO-0099,1,Gorditas,Ninguno,1,0,0,0,8,Afinidad por Gorditas,0
+CASO-0100,1,Huaraches,Ninguno,1,0,0,7,4,Afinidad por Huaraches,0
+CASO-0101,1,Sopes,Ninguno,1,0,0,10,6,Afinidad por Sopes,0
+CASO-0102,1,Tacos,Ninguno,1,0,0,0,1,Afinidad por Tacos,0
+CASO-0103,1,Huaraches,Tacos,2,1,0,1,3,Explora combinaciones,0
+CASO-0104,1,Sopes,Ninguno,1,0,0,10,3,Afinidad por Sopes,0
+CASO-0105,1,Huaraches,Ninguno,1,0,0,6,5,Afinidad por Huaraches,0
+CASO-0106,1,Huaraches,Ninguno,1,0,0,0,3,Afinidad por Huaraches,0
+CASO-0107,1,Gorditas,Ninguno,1,0,0,3,2,Afinidad por Gorditas,0
+CASO-0108,1,Quesadillas,Ninguno,1,0,1,4,6,Afinidad por Quesadillas,0
+CASO-0109,1,Tacos,Ninguno,1,0,0,3,4,Afinidad por Tacos,0
+CASO-0110,1,Huaraches,Ninguno,1,0,0,0,6,Afinidad por Huaraches,0
+CASO-0111,1,Tacos,Gorditas,2,1,0,10,1,Explora combinaciones,1
+CASO-0112,1,Tacos,Gorditas,2,1,0,3,6,Explora combinaciones,0
+CASO-0113,1,Tacos,Ninguno,1,0,0,1,3,Afinidad por Tacos,0
+CASO-0114,1,Huaraches,Ninguno,1,0,0,2,5,Afinidad por Huaraches,0
+CASO-0115,1,Huaraches,Ninguno,1,0,0,8,3,Afinidad por Huaraches,0
+CASO-0116,1,Tacos,Ninguno,1,0,0,2,8,Afinidad por Tacos,1
+CASO-0117,1,Sopes,Huaraches,2,1,0,7,1,Explora combinaciones,0
+CASO-0118,1,Sopes,Ninguno,1,0,0,4,2,Afinidad por Sopes,0
+CASO-0119,1,Tacos,Huaraches,2,1,0,4,8,Explora combinaciones,0
+CASO-0120,1,Tacos,Ninguno,1,0,0,4,6,Afinidad por Tacos,0
+CASO-0121,1,Huaraches,Ninguno,1,0,0,10,0,Afinidad por Huaraches,0
+CASO-0122,1,Quesadillas,Ninguno,1,0,0,0,3,Afinidad por Quesadillas,0
+CASO-0123,1,Huaraches,Ninguno,1,0,0,0,2,Afinidad por Huaraches,0
+CASO-0124,1,Huaraches,Ninguno,1,0,0,3,5,Afinidad por Huaraches,1
+CASO-0125,1,Huaraches,Gorditas,2,1,0,8,7,Explora combinaciones,0
+CASO-0126,1,Quesadillas,Ninguno,1,0,0,3,1,Afinidad por Quesadillas,0
+CASO-0127,1,Tacos,Gorditas,2,1,0,4,2,Explora combinaciones,0
+CASO-0128,1,Gorditas,Ninguno,1,0,0,10,3,Afinidad por Gorditas,1
+CASO-0129,1,Gorditas,Ninguno,1,0,0,0,0,Afinidad por Gorditas,0
+CASO-0130,1,Quesadillas,Ninguno,1,0,0,3,3,Afinidad por Quesadillas,0
+CASO-0131,1,Huaraches,Gorditas,2,1,0,0,3,Explora combinaciones,0
+CASO-0132,1,Quesadillas,Ninguno,1,0,0,4,6,Afinidad por Quesadillas,1
+CASO-0133,1,Sopes,Ninguno,1,0,0,5,7,Afinidad por Sopes,1
+CASO-0134,1,Tacos,Ninguno,1,0,0,2,1,Afinidad por Tacos,0
+CASO-0135,1,Tacos,Gorditas,2,1,0,3,4,Explora combinaciones,0
+CASO-0136,1,Gorditas,Ninguno,1,0,0,8,3,Afinidad por Gorditas,0
+CASO-0137,1,Quesadillas,Ninguno,1,0,0,6,5,Afinidad por Quesadillas,0
+CASO-0138,1,Gorditas,Tacos,2,1,0,9,3,Explora combinaciones,1
+CASO-0139,1,Quesadillas,Ninguno,1,0,0,10,6,Afinidad por Quesadillas,1
+CASO-0140,1,Tacos,Gorditas,2,1,0,5,7,Explora combinaciones,1
+CASO-0141,1,Quesadillas,Ninguno,1,0,0,2,7,Afinidad por Quesadillas,0
+CASO-0142,1,Huaraches,Ninguno,1,0,0,6,5,Afinidad por Huaraches,1
+CASO-0143,1,Gorditas,Ninguno,1,0,0,0,2,Afinidad por Gorditas,1
+CASO-0144,1,Tacos,Ninguno,1,0,1,2,6,Afinidad por Tacos,1
+CASO-0145,1,Gorditas,Ninguno,1,0,0,1,0,Afinidad por Gorditas,0
+CASO-0146,1,Tacos,Gorditas,2,1,0,8,7,Explora combinaciones,1
+CASO-0147,1,Tacos,Gorditas,2,1,0,9,2,Explora combinaciones,0
+CASO-0148,1,Quesadillas,Ninguno,1,0,0,0,8,Afinidad por Quesadillas,0
+CASO-0149,1,Gorditas,Ninguno,1,0,0,8,0,Afinidad por Gorditas,0
+CASO-0150,1,Tacos,Gorditas,2,1,0,4,0,Explora combinaciones,1
+CASO-0151,1,Sopes,Huaraches,2,1,0,6,5,Explora combinaciones,0
+CASO-0152,1,Quesadillas,Ninguno,1,0,0,3,0,Afinidad por Quesadillas,0
+CASO-0153,1,Huaraches,Ninguno,1,0,0,5,7,Afinidad por Huaraches,0
+CASO-0154,1,Huaraches,Gorditas,2,1,1,5,2,Explora combinaciones,1
+CASO-0155,1,Huaraches,Tacos,2,1,0,1,6,Explora combinaciones,1
+CASO-0156,1,Huaraches,Ninguno,1,0,0,9,5,Afinidad por Huaraches,1
+CASO-0157,1,Tacos,Ninguno,1,0,0,2,6,Afinidad por Tacos,0
+CASO-0158,1,Sopes,Ninguno,1,0,0,0,5,Afinidad por Sopes,0
+CASO-0159,1,Tacos,Ninguno,1,0,0,2,6,Afinidad por Tacos,0
+CASO-0160,1,Tacos,Ninguno,1,0,0,0,8,Afinidad por Tacos,0
+CASO-0161,1,Tacos,Sopes,2,1,0,2,1,Explora combinaciones,0
+CASO-0162,1,Tacos,Ninguno,1,0,0,3,1,Afinidad por Tacos,0
+CASO-0163,1,Tacos,Ninguno,1,0,0,3,6,Afinidad por Tacos,0
+CASO-0164,1,Tacos,Ninguno,1,0,0,7,6,Afinidad por Tacos,1
+CASO-0165,1,Tacos,Ninguno,1,0,0,2,4,Afinidad por Tacos,0
+CASO-0166,1,Gorditas,Ninguno,1,0,1,1,7,Afinidad por Gorditas,0
+CASO-0167,1,Gorditas,Ninguno,1,0,0,10,7,Afinidad por Gorditas,1
+CASO-0168,1,Quesadillas,Ninguno,1,0,1,7,7,Afinidad por Quesadillas,1
+CASO-0169,1,Gorditas,Ninguno,1,0,0,2,5,Afinidad por Gorditas,0
+CASO-0170,1,Sopes,Ninguno,1,0,0,1,6,Afinidad por Sopes,0
+CASO-0171,1,Huaraches,Gorditas,2,1,0,1,5,Explora combinaciones,1
+CASO-0172,1,Gorditas,Ninguno,1,0,0,6,2,Afinidad por Gorditas,0
+CASO-0173,1,Huaraches,Ninguno,1,0,0,8,5,Afinidad por Huaraches,1
+CASO-0174,1,Tacos,Gorditas,2,1,0,0,1,Explora combinaciones,0
+CASO-0175,1,Gorditas,Ninguno,1,0,0,5,4,Afinidad por Gorditas,1
+CASO-0176,1,Quesadillas,Ninguno,1,0,0,9,6,Afinidad por Quesadillas,0
+CASO-0177,1,Quesadillas,Ninguno,1,0,0,1,3,Afinidad por Quesadillas,0
+CASO-0178,1,Gorditas,Ninguno,1,0,0,8,0,Afinidad por Gorditas,1
+CASO-0179,1,Tacos,Sopes,2,1,0,1,8,Explora combinaciones,1
+CASO-0180,1,Tacos,Ninguno,1,0,0,7,1,Afinidad por Tacos,1
+CASO-0181,1,Tacos,Ninguno,1,0,0,4,2,Afinidad por Tacos,0
+CASO-0182,1,Gorditas,Ninguno,1,0,0,10,5,Afinidad por Gorditas,0
+CASO-0183,1,Gorditas,Ninguno,1,0,0,5,8,Afinidad por Gorditas,0
+CASO-0184,1,Tacos,Ninguno,1,0,0,0,5,Afinidad por Tacos,0
+CASO-0185,1,Gorditas,Ninguno,1,0,0,0,1,Afinidad por Gorditas,0
+CASO-0186,1,Huaraches,Sopes,2,1,0,5,7,Explora combinaciones,0
+CASO-0187,1,Gorditas,Huaraches,2,1,0,8,3,Explora combinaciones,0
+CASO-0188,1,Tacos,Ninguno,1,0,0,6,6,Afinidad por Tacos,1
+CASO-0189,1,Huaraches,Ninguno,1,0,0,0,6,Afinidad por Huaraches,0
+CASO-0190,1,Gorditas,Tacos,2,1,0,4,7,Explora combinaciones,0
+CASO-0191,1,Tacos,Huaraches,2,1,0,10,5,Explora combinaciones,1
+CASO-0192,1,Huaraches,Ninguno,1,0,0,2,1,Afinidad por Huaraches,0
+CASO-0193,1,Tacos,Ninguno,1,0,0,6,5,Afinidad por Tacos,1
+CASO-0194,1,Tacos,Ninguno,1,0,0,0,2,Afinidad por Tacos,0
+CASO-0195,1,Huaraches,Sopes,2,1,0,10,1,Explora combinaciones,0
+CASO-0196,1,Sopes,Tacos,2,1,0,2,0,Explora combinaciones,0
+CASO-0197,1,Huaraches,Gorditas,2,1,0,4,7,Explora combinaciones,0
+CASO-0198,1,Tacos,Huaraches,2,1,0,0,8,Explora combinaciones,1
+CASO-0199,1,Quesadillas,Ninguno,1,0,1,2,0,Afinidad por Quesadillas,0
+CASO-0200,1,Gorditas,Ninguno,1,0,0,5,1,Afinidad por Gorditas,0
+CASO-0201,1,Gorditas,Ninguno,1,0,0,7,8,Afinidad por Gorditas,1
+CASO-0202,1,Gorditas,Ninguno,1,0,0,3,4,Afinidad por Gorditas,0
+CASO-0203,1,Quesadillas,Ninguno,1,0,0,2,2,Afinidad por Quesadillas,0
+CASO-0204,1,Huaraches,Sopes,2,1,0,8,4,Explora combinaciones,0
+CASO-0205,1,Sopes,Ninguno,1,0,0,8,7,Afinidad por Sopes,1
+CASO-0206,1,Tacos,Ninguno,1,0,0,4,6,Afinidad por Tacos,0
+CASO-0207,1,Huaraches,Ninguno,1,0,0,10,4,Afinidad por Huaraches,1
+CASO-0208,1,Tacos,Ninguno,1,0,0,7,4,Afinidad por Tacos,0
+CASO-0209,1,Quesadillas,Ninguno,1,0,0,9,6,Afinidad por Quesadillas,1
+CASO-0210,1,Gorditas,Ninguno,1,0,0,2,2,Afinidad por Gorditas,0
+CASO-0211,1,Tacos,Ninguno,1,0,0,3,7,Afinidad por Tacos,0
+CASO-0212,1,Tacos,Huaraches,2,1,0,8,2,Explora combinaciones,1
+CASO-0213,1,Sopes,Ninguno,1,0,0,3,3,Afinidad por Sopes,0
+CASO-0214,1,Gorditas,Ninguno,1,0,0,2,1,Afinidad por Gorditas,0
+CASO-0215,1,Huaraches,Ninguno,1,0,0,1,4,Afinidad por Huaraches,0
+CASO-0216,1,Gorditas,Ninguno,1,0,0,5,8,Afinidad por Gorditas,0
+CASO-0217,1,Gorditas,Ninguno,1,0,0,4,1,Afinidad por Gorditas,0
+CASO-0218,1,Tacos,Ninguno,1,0,0,2,6,Afinidad por Tacos,0
+CASO-0219,1,Huaraches,Ninguno,1,0,0,2,1,Afinidad por Huaraches,0
+CASO-0220,1,Huaraches,Ninguno,1,0,0,3,3,Afinidad por Huaraches,0
+CASO-0221,1,Quesadillas,Ninguno,1,0,0,2,4,Afinidad por Quesadillas,1
+CASO-0222,1,Huaraches,Ninguno,1,0,0,6,6,Afinidad por Huaraches,0
+CASO-0223,1,Tacos,Ninguno,1,0,0,2,0,Afinidad por Tacos,0
+CASO-0224,1,Sopes,Ninguno,1,0,0,1,7,Afinidad por Sopes,0
+CASO-0225,1,Tacos,Huaraches,2,1,0,1,5,Explora combinaciones,0
+CASO-0226,1,Huaraches,Ninguno,1,0,0,1,8,Afinidad por Huaraches,0
+CASO-0227,1,Sopes,Ninguno,1,0,0,1,2,Afinidad por Sopes,0
+CASO-0228,1,Gorditas,Ninguno,1,0,0,10,8,Afinidad por Gorditas,0
+CASO-0229,1,Quesadillas,Ninguno,1,0,0,3,3,Afinidad por Quesadillas,0
+CASO-0230,1,Gorditas,Ninguno,1,0,0,7,1,Afinidad por Gorditas,0
+CASO-0231,1,Tacos,Ninguno,1,0,0,2,5,Afinidad por Tacos,0
+CASO-0232,1,Sopes,Ninguno,1,0,0,1,1,Afinidad por Sopes,0
+CASO-0233,1,Tacos,Ninguno,1,0,0,6,5,Afinidad por Tacos,1
+CASO-0234,1,Huaraches,Ninguno,1,0,1,8,4,Afinidad por Huaraches,0
+CASO-0235,1,Sopes,Ninguno,1,0,0,8,6,Afinidad por Sopes,0
+CASO-0236,1,Tacos,Gorditas,2,1,0,8,4,Explora combinaciones,1
+CASO-0237,1,Quesadillas,Ninguno,1,0,0,1,3,Afinidad por Quesadillas,0
+CASO-0238,1,Tacos,Sopes,2,1,0,10,7,Explora combinaciones,0
+CASO-0239,1,Sopes,Ninguno,1,0,0,10,6,Afinidad por Sopes,0
+CASO-0240,1,Huaraches,Tacos,2,1,0,5,3,Explora combinaciones,0
+CASO-0241,1,Sopes,Ninguno,1,0,0,1,4,Afinidad por Sopes,1
+CASO-0242,1,Sopes,Ninguno,1,0,0,2,5,Afinidad por Sopes,0
+CASO-0243,1,Tacos,Ninguno,1,0,1,3,8,Afinidad por Tacos,1
+CASO-0244,1,Tacos,Ninguno,1,0,0,7,4,Afinidad por Tacos,0
+CASO-0245,1,Sopes,Ninguno,1,0,0,9,6,Afinidad por Sopes,1
+CASO-0246,1,Quesadillas,Ninguno,1,0,0,9,7,Afinidad por Quesadillas,0
+CASO-0247,1,Quesadillas,Ninguno,1,0,0,0,6,Afinidad por Quesadillas,1
+CASO-0248,1,Tacos,Huaraches,2,1,0,10,6,Explora combinaciones,1
+CASO-0249,1,Huaraches,Ninguno,1,0,0,6,8,Afinidad por Huaraches,0
+CASO-0250,1,Tacos,Ninguno,1,0,0,6,5,Afinidad por Tacos,1
